@@ -10,7 +10,7 @@
 
 <br>
 
-## 🍷 Sobre mim
+## Sobre mim
 
 Oi, eu sou a Mariana! Moro em São Paulo e estou na área de tecnologia desde a escola técnica.
 
@@ -19,7 +19,7 @@ Oi, eu sou a Mariana! Moro em São Paulo e estou na área de tecnologia desde a 
 | 🎓 **Cursando** | Análise e Desenvolvimento de Sistemas, UNICID (2026-2027) |
 | 📘 **Formação técnica** | Técnico em ADS, ETEC Centro Paula Souza (2024-2025) |
 | 💼 **Experiência** | Jovem Aprendiz na CEBE (Meio Ambiente): gestão documental, comunicação interna e apresentações |
-| 🌎 **Idiomas** | Inglês avançado (CNA, 2019-2025) |
+| 🌎 **Idiomas** | Inglês avançado |
 | 🔎 **Procurando** | Estágio em tecnologia e programação |
 
 <br>
@@ -68,22 +68,6 @@ MODELO DE CARD (apague as marcas de comentário e troque NOME-DO-REPO):
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maru8liana&bg_color=0D0D0D&color=B5395B&line=8B1E3F&point=E8D5DA&area=true&area_color=6D1A36&hide_border=true" alt="Activity Graph" />
-</p>
-
-<br>
-
-## 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maru8liana&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
-</p>
-
-<br>
-
-## 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maru8liana/maru8liana/output/github-snake-dark.svg" alt="Snake contribution graph" />
 </p>
 
 <br>
