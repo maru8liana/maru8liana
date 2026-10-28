@@ -45,13 +45,13 @@ Oi, eu sou a Mariana! Moro em São Paulo e estou na área de tecnologia desde a 
 
 Estou reformulando meus repositórios. Em breve, os melhores projetos ficam aqui. 🍷
 
-<!--
+
 MODELO DE CARD (apague as marcas de comentário e troque NOME-DO-REPO):
 
-<a href="https://github.com/maru8liana/NOME-DO-REPO">
+<a href="https://github.com/maru8liana/painel-da-vida">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=maru8liana&repo=NOME-DO-REPO&bg_color=0D0D0D&title_color=B5395B&text_color=D9D9D9&icon_color=8B1E3F&border_color=3A0F1C" alt="NOME-DO-REPO" />
 </a>
--->
+
 
 <br>
 
