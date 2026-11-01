@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Banner Alegre com Kirby -->
-<img src="https://raw.githubusercontent.com/everestpipkin/NeverEndingGIFs/master/gif/kirby_star.gif" width="180px" alt="Kirby Star" />
+<!-- Banner Personalizado com Tema Kirby -->
+<img src="URL_DA_SUA_IMAGEM_AQUI" width="100%" alt="Banner Mariana Brito Farias" />
 
-# Olá, eu sou a Mariana! 👋✨
+# Olá, eu sou a Mariana Brito Farias! 👋🌸
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
@@ -15,34 +15,39 @@
 
 ### 🌸 Sobre Mim
 
-<p align="left">
-<img align="right" src="https://media.giphy.com/media/l41FJv04U97j8b3yE/giphy.gif" width="160px" alt="Kirby Writing" />
+- 🎓 **Atualmente cursando ADS**, com foco em me tornar Analista de Dados Júnior.
+- ✨ Apaixonada pelo desenvolvimento web e a criação de interfaces incríveis (**Front-End**).
+- 💾 Interessada na organização e manipulação eficiente de dados (**Banco de Dados**).
+- 📚 Adora ler e escrever ficção fantástica nas horas vagas.
+- 🎮 Adora jogos clássicos e fofos como Kirby!
 
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas (ADS)**.
-- 🎯 Focada no desenvolvimento de soluções dinâmicas e na jornada para me tornar uma **Analista de Dados Júnior**.
-- 💡 Apaixonada por resolver problemas, otimizar fluxos e aprender novas tecnologias todos os dias.
-- 📚 Nas horas vagas, gosto de escrever ficção fantástica e explorar novos projetos criativos!
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+
+<p>
+  <!-- Linguagens e Banco de Dados -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  
+  <!-- Inteligência Artificial e Ferramentas -->
+  <img src="https://img.shields.io/badge/Inteligência_Artificial-412991?style=for-the-badge&logo=openai&logoColor=white" alt="IA" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-<br />
-
----
-
-### 🛠️ Linguagens e Ferramentas
-
-<div align="center">
-
-| Categoria | Ferramentas & Tecnologias |
-| :--- | :--- |
-| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Banco de Dados** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Inteligência Artificial** | ![Artificial Intelligence](https://img.shields.io/badge/Inteligência%20Artificial-412991?style=for-the-badge&logo=openai&logoColor=white) |
-| **Versionamento & IDE** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
-
 </div>
 
 ---
 
 <div align="center">
-  <i>"Transformando ideias e dados em soluções de impacto!" 🚀</i>
-</div>
+  <i>"Transformando ideias, dados e códigos em soluções com um toque de leveza!" 🚀✨</i>
+</div><img width="1792" height="592" alt="Gemini_Generated_Image_3u6va63u6va63u6v" src="https://github.com/user-attachments/assets/55ba1cdb-4e30-48c3-a838-934cc3760b09" />
