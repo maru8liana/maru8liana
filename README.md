@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Personalizado com Tema Kirby -->
-<img src="https://github.com/maru8liana/maru8liana/blob/main/banner_kirby.jpeg" width="100%" alt="Banner Mariana Brito Farias" />
+<img src="https://github.com/maru8liana/maru8liana/blob/main/banner.jpeg" width="100%" alt="Banner Mariana Brito Farias" />
 
 ---
 
