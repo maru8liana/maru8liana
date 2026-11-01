@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Banner Personalizado com Tema Kirby -->
-<img src="URL_DA_SUA_IMAGEM_AQUI" width="100%" alt="Banner Mariana Brito Farias" />
+<img src="https://github.com/maru8liana/maru8liana/blob/main/banner_kirby.jpeg" width="100%" alt="Banner Mariana Brito Farias" />
 
-# Olá, eu sou a Mariana Brito Farias! 👋🌸
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
@@ -50,4 +50,3 @@
 
 <div align="center">
   <i>"Transformando ideias, dados e códigos em soluções com um toque de leveza!" 🚀✨</i>
-</div><img width="1792" height="592" alt="Gemini_Generated_Image_3u6va63u6va63u6v" src="https://github.com/user-attachments/assets/55ba1cdb-4e30-48c3-a838-934cc3760b09" />
